@@ -4,7 +4,7 @@ In this example, we’re going to help you understand the process of coding a ba
 
 ## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
-* conteneur de servlet TomCat 9.0.46 [Download & Install MongoDB](https://tomcat.apache.org/download-90.cgi) and make sure it's configuring and running.
+* Tomcat 9.0.46 [Download & Install](https://tomcat.apache.org/download-90.cgi) and make sure it's configuring and running.
 * MongoDB - [Download & Install MongoDB](http://www.mongodb.org/downloads), and make sure it's running .
 * bootstrap@5.1.3
 
